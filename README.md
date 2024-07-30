@@ -1,54 +1,44 @@
-<h1 align="center">💦 BPB Panel</h1>
+<h1 align="center">💦 BPB面板</h1>
 
-### 🌏 Readme in [Farsi](README_fa.md)
 
 <p align="center">
   <img src="docs/assets/images/Panel.jpg">
 </p>
 <br>
 
-## Introduction
-This project is dedicated to developing a user panel for the [Cloudflare-workers/pages proxy script](https://github.com/yonggekkk/Cloudflare-workers-pages-vless) created by [yonggekkk](https://github.com/yonggekkk). The panel offers two deployment options: 
-- **Worker** deployment
-- **Pages** deployment
+## 功能
+
+1. **免费**：无需任何费用。
+2. **用户友好面板**：设计简单易用，方便导航、配置和使用。
+3. **支持片段**：提供片段功能支持。
+4. **广告和色情屏蔽（可选）**
+5. **绕过伊朗和LAN（可选）**
+6. **完整的路由规则**：针对Sing-box，绕过伊朗，屏蔽广告、恶意软件、钓鱼网站等。
+7. **链式代理**：可以添加链式代理以修复IP。
+8. **支持广泛的客户端**：为Xray和Sing-box核心客户端提供订阅链接。
+9. **订阅链接（JSON）**：提供JSON配置的订阅链接。
+10. **密码保护的面板**：用密码保护你的面板。
+11. **自定义Cloudflare净IP**：能够使用在线扫描仪设置净IP域名。
+12. **Warp配置**：提供Warp和Warp on Warp订阅。
 <br>
 
-🌟 If you found **BPB Panel** valuable, Your donations make all the difference 🌟
-- **USDT (BEP20):** `0x111EFF917E7cf4b0BfC99Edffd8F1AbC2b23d158`
+## 使用方法：
+- [安装（Pages）](docs/pages_installation_fa.md)
 
-## Features
+- [安装（Worker）](docs/worker_installation_fa.md)
 
-1. **Free**: No cost involved.
-2. **User-Friendly Panel:** Designed for easy navigation, configuration and usage.
-3. **Support Fragment:** Provides support for fragment functionality.
-4. **Block Ads. and Porn (Optional)**
-5. **Bypass Iran and LAN (Optional)**
-6. **Full routing rules:** Bypassing Iran, Blocking Ads, Malwares, Phishing... for Sing-box.
-7. **Chain Proxy:** Capable of adding a chain proxy to fix IP.
-8. **Supports Wide Range of Clients:** Offers subscription links for Xray and Sing-box core clients.
-9. **Subscription Link (JSON):** Provides subscription link for JSON configs.
-10. **Password-Protected Panel:** Secure your panel with password protection.
-11. **Custom Cloudflare Clean IP:** Ability to use online scanner and setting up clean IP-domains.
-12. **Warp configs:** Provides Warp and Warp on Warp subscription.
+- [使用方法](docs/configuration_fa.md)
+
+- [常见问题解答](docs/faq.md)
 <br>
 
-## How to use:
-- [Installation (Pages)](docs/pages_installation_fa.md)
-
-- [Installation (Worker)](docs/worker_installation_fa.md)
-
-- [How to use](docs/configuration_fa.md)
-
-- [FAQ](docs/faq.md)
-<br>
-
-## Supported Clients
-| Client  | Version | Fragment |
+## 支持的客户端
+| 客户端  | 版本 | 片段 |
 | :-------------: | :-------------: | :-------------: |
-| **v2rayNG**  | 1.8.19 or higher  | :heavy_check_mark: |
-| **v2rayN**  | 6.42 or higher  | :heavy_check_mark: |
+| **v2rayNG**  | 1.8.19 或更高版本  | :heavy_check_mark: |
+| **v2rayN**  | 6.42 或更高版本  | :heavy_check_mark: |
 | **Nekobox**  |   | :x: |
-| **Sing-box**  | 1.8.10 or higher  | :x: |
+| **Sing-box**  | 1.8.10 或更高版本  | :x: |
 | **Streisand**  |   | :heavy_check_mark: |
 | **V2Box**  |   | :x: |
 | **Shadowrocket**  |   | :x: |
@@ -58,15 +48,12 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 
 ---
 
-## Stargazers Over Time
+## 持续关注的用户
 [![Stargazers Over Time](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel.svg?variant=adaptive)](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel)
 
 ---
 
-### Special Thanks
-- CF-vless code author [3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)
-- CF preferred IP program author [badafans](https://github.com/badafans/Cloudflare-IP-SpeedTest), [XIU2](https://github.com/XIU2/CloudflareSpeedTest)
+### 特别感谢
+- CF-vless代码作者 [3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)
+- CF首选IP程序作者 [badafans](https://github.com/badafans/Cloudflare-IP-SpeedTest), [XIU2](https://github.com/XIU2/CloudflareSpeedTest)
 
----
-
-For a detailed tutorial on the core script, please refer to [Yongge’s blog and video tutorials](https://ygkkk.blogspot.com/2023/07/cfworkers-vless.html).
