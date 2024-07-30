@@ -1,3 +1,4 @@
+# https://github.com/bia-pain-bache/BPB-Worker-Panel 项目的文字说明的汉化版（除了汉化，还删除了一些测速的程序）
 <h1 align="center">💦 BPB面板</h1>
 
 
@@ -48,12 +49,6 @@
 
 ---
 
-## 持续关注的用户
-[![Stargazers Over Time](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel.svg?variant=adaptive)](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel)
-
----
-
 ### 特别感谢
 - CF-vless代码作者 [3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)
-- CF首选IP程序作者 [badafans](https://github.com/badafans/Cloudflare-IP-SpeedTest), [XIU2](https://github.com/XIU2/CloudflareSpeedTest)
 
